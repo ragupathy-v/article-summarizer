@@ -1,0 +1,19 @@
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+.App {
+  text-align: center;
+  background-color:rgb(16 19 22);
+  width: 100vw;
+  height: 100vh;
+}
+.head{
+  color: antiquewhite;
+  padding-top:30px ;
+  margin-bottom: 30px;
+  text-shadow: rgb(9, 241, 241) 2px 3px 6px ;
+}
+
+
